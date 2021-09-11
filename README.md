@@ -1,2 +1,2 @@
-# BeerAdvocateTop250
-This code scrapes the information from the top 250 beers on Beer Advocate's website and conducts some basic analyis.
+# BeerAdvocate
+There are two main parts to this code. The first scrapes the data from top 250 beers by ratings on Beer Advocate's website and does some basic EDA and similarity analysis on them. The second part (which is still a work in progress) scrapes the data from the top 1000 beers from each style and runs basic EDA and similitarity analyses on them. The point of this is to practice web scraping and NLP, and ultimately, I plan to build a beer recommendation system.
